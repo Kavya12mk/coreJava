@@ -13,7 +13,7 @@ public class ReverseString
         System.out.println("Reversed String:"+reversedString);
         if(originalString.equals(reversedString))
         {
-            System.out.println("Palindrome");
+            System.out.println("Palindromeeeee");
         }
         else
             {

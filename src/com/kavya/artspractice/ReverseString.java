@@ -17,7 +17,7 @@ public class ReverseString
         }
         else
             {
-            System.out.println("Not a palindrome");
+            System.out.println("Not a palindrome string");
         }
     }
 }
